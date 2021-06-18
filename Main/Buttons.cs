@@ -17,9 +17,6 @@ public class Buttons : MonoBehaviour
     private int delete;
     private bool already;
     private int ads = 0;
-    private const string banner = "ca-app-pub-5278905367193358/2582413038";
-    private const string video = "ca-app-pub-5278905367193358/6915944090";
-    private string appID = "ca-app-pub-5278905367193358~8429011363";
     private bool adDestroy;
     //private InterstitialAd ad = new InterstitialAd(video);
 
